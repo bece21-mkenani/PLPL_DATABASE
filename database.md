@@ -59,8 +59,9 @@ _🚨 Warning: This command permanently deletes the database and everything insi
 
 **usefull commands**
 
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'NewStrongPassword123!';
+```ALTER USER 'root'@'localhost' IDENTIFIED BY 'NewStrongPassword123!';
 FLUSH PRIVILEGES; //when we forget password but user is known in workbetch
+```
 
 
 
