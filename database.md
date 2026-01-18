@@ -57,6 +57,12 @@ DROP DATABASE <your_cool_database_name>;
 ```
 _🚨 Warning: This command permanently deletes the database and everything inside it._
 
+**usefull commands**
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'NewStrongPassword123!';
+FLUSH PRIVILEGES; //when we forget password but user is known in workbetch
+
+
 
 
 # WEEK 2 DB
